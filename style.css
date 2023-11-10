@@ -1,0 +1,22 @@
+@import url(styles/header.css);
+@import url(styles/cabecalho.css);
+@import url(styles/numeros.css);
+@import url(styles/banner.css);
+@import url(styles/rodape.css);
+@import url(styles/vagas.css);
+@import url(styles/depo.css);
+
+:root {
+    --cor-de-fundo: #ffffff;
+    --cinza: #667085;
+    --vermelho: #8E2424;
+    --preto: #101828;
+    --fonte: 'Inter', sans-serif;
+    --cinza-claro: #F9FAFB;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--fonte);
+}

@@ -1,0 +1,40 @@
+.banner {
+    justify-content: center;
+    display: block;
+    text-align: center;
+}
+
+.banner__vagas {
+    font-family: var(--fonte);
+}
+
+.banner__botão {
+    color: var(--vermelho);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    justify-content: center;
+    padding: 4px 12px;
+    margin: 1rem;
+    background-color: #8E24240D;
+    border-radius: 10px;
+}
+
+.banner__titulo {
+    font-weight: 600;
+    font-size: 36px;
+    color: var(--preto);
+    margin: 2rem;
+}
+
+.banner__texto {
+    font-weight: 400;
+    font-size: 20px;
+    color: var(--cinza);
+    margin: 1.5rem;
+}
+
+.banner__img {
+    margin: 4rem 7rem;
+
+}

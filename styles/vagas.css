@@ -1,0 +1,38 @@
+.vagas {
+    font-family: var(--fonte);
+    color: var(--preto);
+    display: block;
+    text-align: left;
+    margin: auto 16rem;
+}
+
+.vagas__lista {
+    font-weight: 500;
+    font-size: 20px;
+    margin: 4rem auto 2rem auto;
+}
+.vagas__box {
+    border-radius: 16px;
+    border: 1px solid #EAECF0;
+    padding: 24px 24px 28px 24px;
+    margin-bottom: 1.5rem;
+} 
+.vagas-lista__item {
+    margin-bottom: 2rem;
+}
+.vagas__info {
+    display: flex;
+    justify-content: left;
+    
+}
+.vagas-lista__item {
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.vagas__texto {
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--cinza);
+    margin-right: 1.5rem;
+}
